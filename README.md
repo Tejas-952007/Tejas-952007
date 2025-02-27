@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Tejas Ingale!
+# 👋 Hello, I'm Tejas Ingle!
 
 Welcome to my GitHub profile! I'm a passionate coder and tech enthusiast with a strong interest in **Artificial Intelligence (AI)** and **Data Science**. I love building innovative solutions, solving complex problems, and exploring the endless possibilities of technology. Here, you'll find a collection of my projects and contributions that reflect my journey in programming and AI.
 
