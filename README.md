@@ -281,7 +281,7 @@
 | [🐍 PYTHON_PROJECT](https://github.com/Tejas-952007/PYTHON_PROJECT) | Python programs, algorithms & automation tools | `Python` |
 | [⚡ C++ CodeAlpha](https://github.com/Tejas-952007/c---codealpha) | C++ projects from CodeAlpha internship | `C++` |
 | [🏦 Nextgen-bank](https://github.com/Tejas-952007/Nextgen-bank-) | Full-stack modern banking website | `HTML` `CSS` `JS` |
-| [🌐 Portfolio](https://github.com/Tejas-952007/Portfolio) | My personal portfolio website | `HTML` `CSS` |
+| [🌐 Portfolio ](https://github.com/Tejas-952007/Portfolio) | My personal portfolio website | `HTML` `CSS` |
 
 ---
 
