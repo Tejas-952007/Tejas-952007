@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-> *"Transforming raw data into actionable insights and intelligent systems."* ⚡
+> *"Transforming raw data into actionable insights and intelligent systems.."* ⚡
 
 - 🎓 **AI & Data Science** student at **NMIET, Pune**
 - 🌱 Currently Learning → Advanced Machine Learning & Deep Learning
