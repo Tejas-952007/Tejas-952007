@@ -159,28 +159,28 @@ class TejasIngle:
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🏥 ArogyaAI</h3>
-      <p align="left"><strong>Multilingual Healthcare Screening &amp; AI Diagnostic Platform</strong></p>
-      <p align="left">Built for <strong>MIT-ADT AI Grand Challenge 2026</strong>. Features ML models for condition risk detection, an LLM chatbot for medical guidance, and real-time multi-language translation.</p>
+      <h3 align="left">🏥 Hospital Management System (HMS)</h3>
+      <p align="left"><strong>Enterprise Healthcare Platform with State-Machine Scheduling</strong></p>
+      <p align="left">Production-hardened healthcare backend and UI with strict appointment lifecycle management, doctor schedule conflict prevention, and MySQL transaction guarantees.</p>
       <p align="left">
-        <code>FastAPI</code> • <code>React</code> • <code>Flutter</code> • <code>Supabase</code> • <code>Claude API</code> • <code>XGBoost</code>
+        <code>React</code> • <code>Node.js</code> • <code>Express</code> • <code>MySQL</code> • <code>Tailwind</code>
       </p>
       <p align="left">
-        <a href="https://github.com/Tejas-952007">
+        <a href="https://github.com/Tejas-952007/Hospital-Management-System">
           <img src="https://img.shields.io/badge/Repository-090D16?style=flat-square&logo=github&logoColor=00F2FE" alt="Repo" />
         </a>
-        <img src="https://img.shields.io/badge/Hackathon_Project-7928CA?style=flat-square" alt="Tag" />
+        <img src="https://img.shields.io/badge/Enterprise_System-10B981?style=flat-square" alt="Tag" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">📈 BitPredict Pro</h3>
       <p align="left"><strong>Bitcoin Price Forecasting &amp; LSTM Neural Backtester</strong></p>
-      <p align="left">Interactive crypto intelligence engine providing candlestick charts, multi-model Machine Learning classifiers, and an LSTM deep learning engine with quantitative backtesting.</p>
+      <p align="left">Interactive crypto intelligence engine providing candlestick charts, multi-model ML classifiers (XGBoost, SVM, RF), and an LSTM deep learning engine with backtesting.</p>
       <p align="left">
-        <code>Python</code> • <code>Streamlit</code> • <code>Scikit-Learn</code> • <code>LSTM</code> • <code>Pandas</code>
+        <code>Python</code> • <code>Streamlit</code> • <code>Scikit-Learn</code> • <code>LSTM</code> • <code>XGBoost</code>
       </p>
       <p align="left">
-        <a href="https://github.com/Tejas-952007">
+        <a href="https://github.com/Tejas-952007/Bitcoin-Price-Prediction-using-Machine-Learning-">
           <img src="https://img.shields.io/badge/Repository-090D16?style=flat-square&logo=github&logoColor=00F2FE" alt="Repo" />
         </a>
         <a href="https://bitpredict-pro.streamlit.app">
@@ -191,31 +191,61 @@ class TejasIngle:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">⚡ FitForge</h3>
-      <p align="left"><strong>Full-Stack Fitness Platform &amp; AI Fitness Coach</strong></p>
-      <p align="left">Full-stack health platform featuring custom AI coaching workflows, interactive metric visualizations, and a sleek dark glassmorphism dashboard experience.</p>
+      <h3 align="left">🧠 MindMap Platform</h3>
+      <p align="left"><strong>Psychological Assessment &amp; Parent-Student Guidance System</strong></p>
+      <p align="left">Full-stack psychological evaluation engine designed for students and parents, built with modern TypeScript component architecture and structured analytics.</p>
       <p align="left">
-        <code>React</code> • <code>Vite</code> • <code>Node.js</code> • <code>Express</code> • <code>Zustand</code> • <code>Recharts</code>
+        <code>TypeScript</code> • <code>React</code> • <code>Node.js</code> • <code>Express</code>
       </p>
       <p align="left">
-        <a href="https://github.com/Tejas-952007">
+        <a href="https://github.com/Tejas-952007/MindMap">
           <img src="https://img.shields.io/badge/Repository-090D16?style=flat-square&logo=github&logoColor=00F2FE" alt="Repo" />
         </a>
-        <img src="https://img.shields.io/badge/Full_Stack-38BDF8?style=flat-square" alt="Tag" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="Tag" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🏥 Hospital Management System (HMS)</h3>
-      <p align="left"><strong>Enterprise Healthcare Platform with State-Machine Scheduling</strong></p>
-      <p align="left">Production-hardened healthcare backend and UI with strict appointment lifecycle management, doctor schedule conflict prevention, and MySQL ACID transaction guarantees.</p>
+      <h3 align="left">🤖 Agentic AI Workshop Lab</h3>
+      <p align="left"><strong>Generative AI, Transformers &amp; Vector Embeddings Lab</strong></p>
+      <p align="left">Comprehensive repository exploring Transformers, HuggingFace models, Vector Embeddings, RAG indexing, LLM text-to-text generation, and autonomous AI Agent workflows.</p>
       <p align="left">
-        <code>React</code> • <code>Node.js</code> • <code>Express</code> • <code>MySQL</code> • <code>Tailwind</code>
+        <code>Python</code> • <code>Jupyter</code> • <code>HuggingFace</code> • <code>Transformers</code> • <code>Vector DB</code>
       </p>
       <p align="left">
-        <a href="https://github.com/Tejas-952007">
+        <a href="https://github.com/Tejas-952007/AGENTIC_AI_WORKSHOP">
           <img src="https://img.shields.io/badge/Repository-090D16?style=flat-square&logo=github&logoColor=00F2FE" alt="Repo" />
         </a>
-        <img src="https://img.shields.io/badge/Enterprise_System-10B981?style=flat-square" alt="Tag" />
+        <img src="https://img.shields.io/badge/AI_Research-7928CA?style=flat-square" alt="Tag" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">📱 Ubuntu Touch OS Learning App</h3>
+      <p align="left"><strong>Open-Source Mobile Educational OS Application</strong></p>
+      <p align="left">Developed for the <strong>OSI-SCI Hackathon 2025</strong>. An open-source educational suite engineered specifically for the Ubuntu Touch Linux mobile operating system.</p>
+      <p align="left">
+        <code>QML</code> • <code>C++</code> • <code>Linux OS</code> • <code>Ubuntu Touch</code>
+      </p>
+      <p align="left">
+        <a href="https://github.com/Tejas-952007/ubuntu-touch-phone-opreating-system-learning-app">
+          <img src="https://img.shields.io/badge/Repository-090D16?style=flat-square&logo=github&logoColor=00F2FE" alt="Repo" />
+        </a>
+        <img src="https://img.shields.io/badge/Hackathon_2025-FF0080?style=flat-square" alt="Tag" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🌾 Farmer Friend ML Recommender</h3>
+      <p align="left"><strong>Random Forest Crop &amp; Agriculture Intelligence Engine</strong></p>
+      <p align="left">Machine Learning system designed to analyze soil parameters and climate variables using Random Forest algorithms to deliver optimal crop yield recommendations.</p>
+      <p align="left">
+        <code>Python</code> • <code>Scikit-Learn</code> • <code>Random Forest</code> • <code>Pandas</code>
+      </p>
+      <p align="left">
+        <a href="https://github.com/Tejas-952007/Farmer-friend-using-Random-Forset-Algorithim">
+          <img src="https://img.shields.io/badge/Repository-090D16?style=flat-square&logo=github&logoColor=00F2FE" alt="Repo" />
+        </a>
+        <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square" alt="Tag" />
       </p>
     </td>
   </tr>
