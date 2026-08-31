@@ -1,0 +1,50 @@
+<svg fill="none" viewBox="0 0 1200 160" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a14" />
+      <stop offset="50%" stop-color="#0b1024" />
+      <stop offset="100%" stop-color="#04060c" />
+    </linearGradient>
+    <linearGradient id="footer-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0" />
+      <stop offset="25%" stop-color="#00f2fe" stop-opacity="0.8" />
+      <stop offset="75%" stop-color="#7928ca" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#7928ca" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="quote-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="160" rx="14" fill="url(#footer-bg)" stroke="#1e293b" stroke-width="1" />
+  
+  <!-- Glowing Separator Line -->
+  <rect x="50" y="25" width="1100" height="2" fill="url(#footer-glow)" />
+
+  <!-- Terminal Aesthetic Footer Graphic -->
+  <g transform="translate(0, 15)">
+    <!-- Circuit lines on edges -->
+    <path d="M 60 50 L 120 50 L 150 70 L 250 70" stroke="#00f2fe" stroke-width="1" stroke-opacity="0.3" fill="none" />
+    <circle cx="250" cy="70" r="3" fill="#00f2fe" opacity="0.6" />
+    
+    <path d="M 1140 50 L 1080 50 L 1050 70 L 950 70" stroke="#7928ca" stroke-width="1" stroke-opacity="0.3" fill="none" />
+    <circle cx="950" cy="70" r="3" fill="#7928ca" opacity="0.6" />
+  </g>
+
+  <!-- Quote Text -->
+  <text x="600" y="75" font-family="'Inter', -apple-system, sans-serif" font-size="18" font-weight="700" font-style="italic" text-anchor="middle" fill="url(#quote-grad)" letter-spacing="1">
+    "Turning curiosity into systems, and ideas into code."
+  </text>
+
+  <!-- Sub-text / Signature -->
+  <text x="600" y="105" font-family="'Fira Code', monospace" font-size="13" text-anchor="middle" fill="#94a3b8" letter-spacing="2">
+    DESIGNED &amp; ENGINEERED BY TEJAS INGLE  |  SPPU AI&amp;DS '26
+  </text>
+
+  <!-- Status indicator -->
+  <text x="600" y="132" font-family="'Fira Code', monospace" font-size="11" text-anchor="middle" fill="#64748b">
+    SYS_STATUS: ⚡ 100% OPERATIONAL  •  BUILT WITH PASSION &amp; AI
+  </text>
+</svg>
