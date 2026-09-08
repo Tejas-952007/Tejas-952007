@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <div align="center">
-  <img src="./assets/hero-banner.svg" alt="Tejas Ingle - AI & Data Science Engineer Banner" width="100%" />
+  <img src="./assets/naruto.jpeg" alt="Tejas Ingle - AI & Data Science Engineer Banner" width="100%" />
 </div>
 
 <br />
