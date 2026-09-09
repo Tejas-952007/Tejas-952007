@@ -361,7 +361,7 @@ NOW (2026 Focus)
   <p>I am actively seeking <strong>AI/DS Internships</strong>, <strong>Hackathon Teammates</strong>, and <strong>Open Source Collaborations</strong>.</p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/tejas-ingle-b4323b32a">
+    <a href="https://www.linkedin.com/in/tejas-ingle-39b36738a">
       <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
