@@ -375,5 +375,5 @@ NOW (2026 Focus)
 
 <!-- FOOTER BANNER -->
 <div align="center">
-  <img src="./assets/footer.svg" alt="Tejas Ingle Footer" width="100%" />
+  <img src="./assets/_(5).jpeg" alt="Tejas Ingle Footer" width="100%" />
 </div>
