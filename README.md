@@ -31,8 +31,11 @@ I work on Generative AI and RAG, Agentic AI, Machine Learning, Full-Stack and DS
 
 ## 🏆 Achievements
 
-- 🥇 **1st Position, Problem Statement Winner** at CodeUtsava X.0, NIT Raipur (2026)
-- 🇮🇳 **Selected among Top 45 Teams** in Smart India Hackathon 2026
+- 🥇 **1st Place, CodeUtsava X.0** · NIT Raipur, Turing Club of Programmers (Oct 2026)<br />Won the "Shankarpali AI Database Optimization" problem statement. [Certificate](https://drive.google.com/file/d/1U3wJXCzGDMp6IxjeqHyPUbyDKOdMMowD/view)
+- 🇮🇳 **Smart India Hackathon 2026, Internal Round** · NMIET (Sep 2026)<br />Part of Team Fearless, selected among the Top 45 teams. [Certificate](https://drive.google.com/file/d/1uSYbBpIyfQXTSYZYA7NoXsaGjawqnOsT/view)
+- 🐧 **FOSS Fest National Hackathon** · OpenSource Science B.V. (Sep 2025)<br />Completed the national-level open-source hackathon. [Certificate](https://drive.google.com/file/d/1Kk0qov1iP0MFN0R6GOmPWjMgnLJ-P6d_/view)
+- 🤖 **MIT ADT AI Grand Challenge 2026** · MIT ADT University<br />Participant in the national AI competition. [Certificate](https://drive.google.com/file/d/1ph5JiHcj3HYV4MJx17sU3Lh5HF1-vqmR/view)
+- 🔐 **The Final Decrypt** · IEEE Robotics & Automation Society, NMIET (Oct 2026)<br />Participant in the technical problem-solving competition. [Certificate](https://drive.google.com/file/d/1-Z7mBN3lzW3uMIgF4C7m9pY4DIh0xRDF/view)
 
 ---
 
@@ -49,11 +52,27 @@ I work on Generative AI and RAG, Agentic AI, Machine Learning, Full-Stack and DS
 
 ---
 
-## 🚀 Currently Building: ArogyaAI
+## 💼 Experience
 
-> **MIT-ADT AI Grand Challenge 2026** · Lead Architect & AI Developer
->
-> `FastAPI` `React` `Supabase` `Claude API` `XGBoost`
+### 📊 Junior Data Analyst Intern · Kagnus *(Current)*
+
+[**Food Delivery Data Analysis**](https://github.com/Tejas-952007/Food-Delivery-Data-Analysis-X-Kagnus): analysing food delivery operations data to find bottlenecks and build KPI visualizations. Data cleaning and exploratory analysis of 45,584 orders are done; KPI analysis is next.
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter`
+
+### ⚡ Intern · Emertex
+
+[**Smart Edge-AI EV Charging Station Optimizer**](https://github.com/Tejas-952007/internship): a 3-bay charging system that predicts demand on an ESP32 and decides to allow, throttle or defer each bay within the station's current limit.
+
+`ESP32` `Edge AI` `MQTT` `ThingsBoard` `Embedded C/C++` `Python`
+
+---
+
+## 🎮 Side Project
+
+[**SOLO GYM**](https://github.com/Tejas-952007/SOLO-GYM): a fitness website I am building for fun.
+
+`Next.js` `React` `TypeScript` `Three.js` `GSAP` `Tailwind CSS`
 
 ---
 
@@ -87,12 +106,34 @@ I work on Generative AI and RAG, Agentic AI, Machine Learning, Full-Stack and DS
 </details>
 
 <details>
-<summary><b>📜 Certifications</b></summary>
+<summary><b>📜 Certifications & Courses</b></summary>
 
-- IBM SkillsBuild: Intro to RAG, Lab: RAG with LangChain, Ethical Considerations for Gen AI, Data Fundamentals
-- L&T EduTech: Data Analysis with Python, Introduction to AI, Getting Started with Python, Advanced Excel Techniques
-- Simplilearn SkillUp: Machine Learning, Python, MS Excel
-- Also: MaTPO Aptitude Idol 2025, Avishkar Poster Competition (NMIET), National Hackathon (Reva University)
+**IBM SkillsBuild**
+- [Lab: Retrieval Augmented Generation with LangChain](https://drive.google.com/file/d/1aX9NE0KlfN9GtCEmAs0DfC7Owl3TOSmT/view) (Aug 2025)
+- [Introduction to Retrieval Augmented Generation](https://drive.google.com/file/d/1abeLyHpPtYkunfqiC8lJM0gLW29xv8Ry/view) (Aug 2025)
+- [Ethical Considerations for Generative AI](https://drive.google.com/file/d/1abarfIj-MGa7r5loT_L4UyfRwRvRkmmx/view) (Aug 2025)
+
+**Infosys Springboard**
+- [Explore Machine Learning using Python](https://drive.google.com/file/d/1xBYN1O20N5ZNWAXJcYb-HASHob8V6QWa/view) (Oct 2026)
+- [Python for Data Science](https://drive.google.com/file/d/1nHi5XEGbTVFSb67-BgGiFq8-QaCHZzYi/view) (Oct 2026)
+- [Introduction to Data Science](https://drive.google.com/file/d/19Y47zwMmWerFKefItbowFCK6PzEvVNuE/view) (Oct 2026)
+
+**L&T EduTech**
+- [Real-World Machine Learning Course Pathway](https://drive.google.com/file/d/1hGDafTJ2C2jwQw6-raZuupoYdJmVogKX/view) (8 courses, 32 learning hours)
+
+**Simplilearn**
+- [Machine Learning Using Python](https://drive.google.com/file/d/155699giDFQSbbx_E3AzIdTq2NaDRxeTf/view) (Jan 2026)
+- [Python for Beginners](https://drive.google.com/file/d/1UF6GppL0SjFLtkR1c489tGv2oZ9lSHiO/view) (Jan 2026)
+- [Introduction to MS Excel](https://drive.google.com/file/d/1e9wHaBGvPTSFuhLvT_gtlMFqmh2iFTKy/view) (Jan 2026)
+- [Masterclass: Build with OpenClaw](https://drive.google.com/file/d/1UN0gStPpLpli7IPTIBqDWMIK8wa-vBCd/view) (Sep 2026)
+
+</details>
+
+<details>
+<summary><b>🌐 Workshops & Memberships</b></summary>
+
+- [Prompt Engineering Hands-on Workshop](https://drive.google.com/file/d/1W1rC7IQ83LTTDN4CHCDgbSFH0TukC5ZX/view), IEEE Computer Society (NMIET & Universidade de Brasília): learned proper use of AI agents (Sep 2026)
+- [Society for Data Science (S4DS)](https://drive.google.com/file/d/1-ML1nPcyZ54mqigSe9o2pouVW0OHlMfE/view): Student Chapter Member (Mar 2026 to Mar 2027)
 
 </details>
 
@@ -129,7 +170,7 @@ I work on Generative AI and RAG, Agentic AI, Machine Learning, Full-Stack and DS
 
 - 🧠 **Agentic AI:** LangChain and LangGraph workflows, tool-calling agents
 - ⚡ **Advanced RAG:** Hybrid search, dense embeddings, GraphRAG
-- 🏗️ **Hackathons:** ArogyaAI @ MIT-ADT AI Grand Challenge 2026
+- 📊 **Data Analytics:** KPI analysis and recommendations at Kagnus
 - ⚙️ **Foundations:** System design and DSA
 
 ---
